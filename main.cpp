@@ -1,3 +1,4 @@
+//program to exercise function structure and return statement
 #include <iostream>
 
 using namespace std;
